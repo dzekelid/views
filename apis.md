@@ -4,7 +4,7 @@ description: This is a repository of views APIs, self-contained as a Github repo
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/views.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://views.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -18,8 +18,8 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/views/master/_listings/blogger/apis.yaml
 - name: Azure Data Lake Analytics
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/views/master/_listings/azure-data-lake-analytics/apis.yaml
-- name: New York Times
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/views/master/_listings/new-york-times/apis.yaml
+- name: The New York Times
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/views/master/_listings/the-new-york-times/apis.yaml
 - name: AngelList
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/views/master/_listings/angellist/apis.yaml
 - name: Google Play
